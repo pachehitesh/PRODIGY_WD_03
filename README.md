@@ -15,7 +15,7 @@ Welcome to the Tic-Tac-Toe Web Application repository! This project showcases th
   - **Player vs. AI:** Engage in strategic battles against an AI opponent, offering a challenging solo play option.
 
 🚀 **Getting Started:**
-1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe.git`
+1. Clone the repository: `git clone https://github.com/your-pachehitesh/tic-tac-toe.git`
 2. Open `index.html` in your preferred web browser to launch the game.
 
 🌟 **Contribute:**
