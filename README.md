@@ -27,8 +27,6 @@ Contributions are welcome! Whether you're fixing bugs, enhancing features, or ad
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 👩‍💻 **Developers:**
-- [Your Name] - [GitHub Profile](https://github.com/your-username)
-- [Contributor 1] - [GitHub Profile](https://github.com/contributor1)
-- [Contributor 2] - [GitHub Profile](https://github.com/contributor2)
+- [Hitesh Pache] - [GitHub Profile](https://github.com/your-pachehitesh)
 
 🌐 **Join the fun and start playing Tic-Tac-Toe now!** 🌈🎉 #TicTacToe #WebDevelopment #JavaScriptGame #OpenSource #HTML #CSS #JavaScript
