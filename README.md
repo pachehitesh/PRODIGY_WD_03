@@ -15,7 +15,7 @@ Welcome to the Tic-Tac-Toe Web Application repository! This project showcases th
   - **Player vs. AI:** Engage in strategic battles against an AI opponent, offering a challenging solo play option.
 
 🚀 **Getting Started:**
-1. Clone the repository: `git clone https://github.com/your-pachehitesh/tic-tac-toe.git`
+1. Clone the repository: `git clone https://github.com/pachehitesh/tic-tac-toe.git`
 2. Open `index.html` in your preferred web browser to launch the game.
 
 🌟 **Contribute:**
@@ -27,6 +27,6 @@ Contributions are welcome! Whether you're fixing bugs, enhancing features, or ad
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 👩‍💻 **Developers:**
-- [Hitesh Pache] - [GitHub Profile](https://github.com/your-pachehitesh)
+- Hitesh Pache - GitHub Profile(https://github.com/pachehitesh)
 
 🌐 **Join the fun and start playing Tic-Tac-Toe now!** 🌈🎉 #TicTacToe #WebDevelopment #JavaScriptGame #OpenSource #HTML #CSS #JavaScript
